@@ -1,0 +1,5 @@
+Model Building (for ML): Tensor Flow, CNN, Data Augmentation, tf dataset
+BackendServer: tf serving, FastAPI
+Model Optimization: Quantization, TensorFlow Lite
+Frontend + Deployment: ReactJS, ReactNative, Google Cloud Platform (GCP)
+ETL Pipeline through webscraping.
